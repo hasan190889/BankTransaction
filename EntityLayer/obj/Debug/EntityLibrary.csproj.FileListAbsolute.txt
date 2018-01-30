@@ -1,0 +1,5 @@
+F:\New folder\EntityLayer\bin\Debug\EntityLayer.dll
+F:\New folder\EntityLayer\bin\Debug\EntityLayer.pdb
+F:\New folder\EntityLayer\obj\Debug\EntityLibrary.csproj.CoreCompileInputs.cache
+F:\New folder\EntityLayer\obj\Debug\EntityLayer.dll
+F:\New folder\EntityLayer\obj\Debug\EntityLayer.pdb

@@ -1,0 +1,15 @@
+F:\New folder\DataLayer\bin\Debug\DataLayer.dll.config
+F:\New folder\DataLayer\bin\Debug\DataLayer.dll
+F:\New folder\DataLayer\bin\Debug\DataLayer.pdb
+F:\New folder\DataLayer\bin\Debug\EntityFramework.dll
+F:\New folder\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\New folder\DataLayer\bin\Debug\EntityLayer.dll
+F:\New folder\DataLayer\bin\Debug\Utility.dll
+F:\New folder\DataLayer\bin\Debug\EntityLayer.pdb
+F:\New folder\DataLayer\bin\Debug\Utility.pdb
+F:\New folder\DataLayer\bin\Debug\EntityFramework.xml
+F:\New folder\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\New folder\DataLayer\obj\Debug\DataLibrary.csprojResolveAssemblyReference.cache
+F:\New folder\DataLayer\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+F:\New folder\DataLayer\obj\Debug\DataLayer.dll
+F:\New folder\DataLayer\obj\Debug\DataLayer.pdb
