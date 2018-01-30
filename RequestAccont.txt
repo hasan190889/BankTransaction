@@ -1,0 +1,59 @@
+//http://localhost:5393/api/account/deposit
+Request:
+{
+  "Data": {
+    "AccountNumber": "1000000001",
+    "Amount": "10.00",
+    "Currency": "INR"
+  }
+}
+Response:
+{
+    "Error": null,
+    "Data": {
+        "AccountNumber": 1000000001,
+        "Balance": 10011,
+        "Successful": true,
+        "Currency": "INR",
+        "Message": "Success"
+    },
+    "A1": null
+}
+
+
+//http://localhost:5393/api/account/Withdraw
+Request:
+{
+  "Data": {
+    "AccountNumber": "1000000001",
+    "Amount": "10.00",
+    "Currency": "INR"
+  }
+}
+
+Response:
+{
+    "Error": null,
+    "Data": {
+        "AccountNumber": 1000000001,
+        "Balance": 10011,
+        "Successful": true,
+        "Currency": "INR",
+        "Message": "Success"
+    },
+    "A1": null
+}
+
+//http://localhost:5393/api/account/balance?AccountNumber=1000000001
+Response:
+{
+    "Error": null,
+    "Data": {
+        "AccountNumber": 1000000001,
+        "Balance": 10011,
+        "Successful": true,
+        "Currency": "INR",
+        "Message": "Success"
+    },
+    "A1": null
+}

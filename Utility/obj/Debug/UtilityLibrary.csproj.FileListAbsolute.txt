@@ -1,0 +1,9 @@
+F:\New folder\Utility\bin\Debug\Utility.dll
+F:\New folder\Utility\bin\Debug\Utility.pdb
+F:\New folder\Utility\bin\Debug\log4net.dll
+F:\New folder\Utility\bin\Debug\System.Net.Http.Formatting.dll
+F:\New folder\Utility\bin\Debug\System.Web.Http.dll
+F:\New folder\Utility\bin\Debug\log4net.xml
+F:\New folder\Utility\obj\Debug\UtilityLibrary.csproj.CoreCompileInputs.cache
+F:\New folder\Utility\obj\Debug\Utility.dll
+F:\New folder\Utility\obj\Debug\Utility.pdb
